@@ -1,0 +1,1 @@
+Encapsulamiento, metodo getter & setter
